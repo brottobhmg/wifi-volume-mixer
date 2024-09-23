@@ -9,4 +9,7 @@ It launch one thread (webserver) to manage the request from the app, one thread 
 
 The App show the sliders and allow the user to interact with them. It also have a demo screen accessible with the 'play' icon on the appbar.
 
+## How to run
+Install the dependencies and run the *app.py*.
 
+Install the .apk on the Android smartphone.
